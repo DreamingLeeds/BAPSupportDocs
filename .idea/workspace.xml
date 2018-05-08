@@ -31,20 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="commonHeader.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="commonHeader.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/commonHeader.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="65.566666">
-              <caret line="16" column="90" selection-start-line="16" selection-start-column="90" selection-end-line="16" selection-end-column="90" />
+            <state vertical-scroll-proportion="0.4488189">
+              <caret line="43" column="73" selection-start-line="43" selection-start-column="73" selection-end-line="43" selection-end-column="73" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="commonFooter.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="commonFooter.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commonFooter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25984251">
+            <state vertical-scroll-proportion="-7.7">
               <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
               <folding />
             </state>
@@ -104,11 +104,11 @@
         <option value="$PROJECT_DIR$/js/support_main.js" />
         <option value="$PROJECT_DIR$/css/support_main.css" />
         <option value="$PROJECT_DIR$/docs/BAPERPNicer5/basicOperation.md" />
-        <option value="$PROJECT_DIR$/commonHeader.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/lib/share.js" />
         <option value="$PROJECT_DIR$/static/api/js/share.js" />
         <option value="$PROJECT_DIR$/commonFooter.html" />
+        <option value="$PROJECT_DIR$/commonHeader.html" />
       </list>
     </option>
   </component>
@@ -471,14 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commonHeader.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="65.566666">
-          <caret line="16" column="90" selection-start-line="16" selection-start-column="90" selection-end-line="16" selection-end-column="90" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/api/js/share.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
@@ -489,8 +481,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/commonFooter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25984251">
+        <state vertical-scroll-proportion="-7.7">
           <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonHeader.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4488189">
+          <caret line="43" column="73" selection-start-line="43" selection-start-column="73" selection-end-line="43" selection-end-column="73" />
           <folding />
         </state>
       </provider>
