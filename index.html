@@ -13,6 +13,16 @@
 </head>
 <body>
     <div data-app id="main">加载中……</div>
+    
+    <iframe id="MiddleIframe" name="MiddleIframe" src="http://www.aaa.com/kuayu/autoheight.html" width="0" height="0" style="display: none;" onload="on_Height()"></iframe>
+<script type="text/javascript">
+function on_Height(){
+　　hashH = document.documentElement.scrollHeight;
+　　urlC = "/kuayu/autoheight.htm";
+　　document.getElementById("MiddleIframe").src=urlC+"#"+hashH;
+}
+</script>
+    
     <script>
         window.$docsify = {
           el:'#main',
