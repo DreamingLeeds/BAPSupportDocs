@@ -24,7 +24,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="35.35">
+            <state vertical-scroll-proportion="59.5">
               <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
               <folding />
             </state>
@@ -41,21 +41,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="commonFooter.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="commonFooter.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/commonFooter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.8">
-              <caret line="24" column="247" selection-start-line="24" selection-start-column="247" selection-end-line="24" selection-end-column="247" />
+            <state vertical-scroll-proportion="0.56692916">
+              <caret line="24" column="248" selection-start-line="24" selection-start-column="248" selection-end-line="24" selection-end-column="248" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="share.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="share.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/api/js/share.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19512194">
-              <caret line="0" column="1232" selection-start-line="0" selection-start-column="1232" selection-end-line="0" selection-end-column="1232" />
+            <state vertical-scroll-proportion="18.586206">
+              <caret line="0" column="9739" selection-start-line="0" selection-start-column="9735" selection-end-line="0" selection-end-column="9739" />
               <folding />
             </state>
           </provider>
@@ -436,14 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="35.35">
-          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/commonHeader.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="65.566666">
@@ -452,18 +444,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commonFooter.html">
+    <entry file="file://$PROJECT_DIR$/static/api/js/share.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.8">
-          <caret line="24" column="247" selection-start-line="24" selection-start-column="247" selection-end-line="24" selection-end-column="247" />
+        <state vertical-scroll-proportion="18.586206">
+          <caret line="0" column="9739" selection-start-line="0" selection-start-column="9735" selection-end-line="0" selection-end-column="9739" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/api/js/share.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19512194">
-          <caret line="0" column="1232" selection-start-line="0" selection-start-column="1232" selection-end-line="0" selection-end-column="1232" />
+        <state vertical-scroll-proportion="59.5">
+          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonFooter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56692916">
+          <caret line="24" column="248" selection-start-line="24" selection-start-column="248" selection-end-line="24" selection-end-column="248" />
           <folding />
         </state>
       </provider>
